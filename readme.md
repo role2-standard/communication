@@ -1,3 +1,5 @@
+[中文](./readme.zh.md)
+
 # Role2 Communication Standards
 
 ```text
