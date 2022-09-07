@@ -1,3 +1,5 @@
+[English](./readme.md)
+
 # Role2 交流标准
 
 ```text
