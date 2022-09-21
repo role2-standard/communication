@@ -6,6 +6,9 @@
 scope: All communication scenarios
 ```
 
+## Principle: accurate and timely
+Stand in others' shoes and check your own expression. Make sure context, wording and numbers are correct.
+
 ## A successful communication consists of two parts
 
 1. **Initiation** e.g. "Client has been updated"
