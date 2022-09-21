@@ -98,11 +98,11 @@ scope: 所有交流场景
 
 优化前：
 
-![img.png](asset/img2.png)
+![img.png](asset/img_4.png)
 
 优化后：
 
-![img.png](asset/img.png)
+![img.png](asset/img_3.png)
 
 #### 潜在复制内容
 
