@@ -27,3 +27,21 @@ The response should do the following:
 
 1. **certain**
 2. **on time**
+
+#### Certainty - There will always be a response
+
+Response is compulsory no matter what initiation is:
+
+> Initiation: "I'm done."
+>
+> Response: "ok" (Respond regardless of whether the other party needs to respond or not.)
+
+If you don't know how to answer it right away, you should still respond and then look it up:
+
+> Initiation: "Is it ok to sign without stamping at the end of the document?"
+>
+> Response: "Let me check" (Respond even if you don't know the answer)
+
+#### Timely - respond ASAP
+
+**Instant response: phone calls, text messages, anything.** No need to wait.
