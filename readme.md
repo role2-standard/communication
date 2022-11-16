@@ -7,6 +7,7 @@ scope: All communication scenarios
 ```
 
 ## Principle: accurate and timely
+
 Stand in others' shoes and check your own expression. Make sure context, wording and numbers are correct.
 
 ## A successful communication consists of two parts
@@ -65,6 +66,7 @@ Documents Reuired
 ```
 
 For ordered list, please add number prefix `x. ` (don't forget the space).
+
 ```text
 Steps
 1. Prepare for the test
@@ -74,7 +76,7 @@ Steps
 
 #### Screenshot - Be clear at a glance
 
-Remember to take other screen sizes into consideration, try to make it clear for everyone without zooming. 
+Remember to take other screen sizes into consideration, try to make it clear for everyone without zooming.
 
 If it contains lots of text, better zoom in first then take the screenshot.
 
@@ -113,4 +115,3 @@ Phone number:
 ```
 
 The second one is easier to copy as there's no redundant information.
-
